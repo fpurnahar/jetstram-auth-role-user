@@ -1,0 +1,2 @@
+@stack('modals')
+@livewireScripts
